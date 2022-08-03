@@ -1,0 +1,5 @@
+every combination of RPS
+
+rock > sissor
+sissor > paper
+paper > rock 
